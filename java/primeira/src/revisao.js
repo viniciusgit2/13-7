@@ -1,3 +1,5 @@
+
+
 {var a=1
 let b=2
 console.log(b)}
@@ -19,3 +21,8 @@ return total
  console.log(Object.entries(obj))
  const nome="vinicius"
  console.log(nome)
+ 
+console.log("ola react")
+console.log("o resto das possiveis revisoes nao fiz por que exijia export")
+
+
